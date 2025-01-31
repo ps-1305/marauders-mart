@@ -11,5 +11,5 @@
 
 ## Tech-stack
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,cpp,qt,ipfs,vscode,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=cpp,qt,js,ipfs,vscode,ubuntu" />
 </a>
