@@ -6,3 +6,4 @@ pillow
 folium
 networkx
 streamlit_folium
+osmnx
