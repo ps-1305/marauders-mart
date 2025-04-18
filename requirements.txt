@@ -1,0 +1,9 @@
+streamlit>=1.27
+bcrypt
+json
+pathlib 
+requests
+pillow
+folium
+networkx
+streamlit_folium
