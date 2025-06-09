@@ -45,7 +45,7 @@ If you encounter any bugs or have suggestions for enhancements, please submit an
 
 ### 3. Code of Conduct
 
-Please maintain a welcoming and respectful environment for all contributors
+Please maintain a welcoming and respectful environment for all contributors.
 
 ## Recognition and Acknowledgements
 
