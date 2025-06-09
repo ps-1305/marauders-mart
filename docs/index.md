@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Marauder's Mart Documentation
+title: Home
 ---
 
 # Marauder's Mart Documentation
