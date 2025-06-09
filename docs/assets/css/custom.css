@@ -57,3 +57,17 @@ h1, h2, h3 {
 .footer-description {
     color: #ddd;
 }
+
+#main-title {
+    font-family: 'Georgia', serif;
+    font-size: 48px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    border-bottom: 2px solid #ddd;
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+    -webkit-background-clip: text;
+    color: transparent;
+}
