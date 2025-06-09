@@ -5,7 +5,7 @@ title: Contributions
 
 # Contributions
 
-The development of **Marauder's Mart** is a collaborative effort involving multiple contributors. This section acknowledges their contributions and provides guidelines for anyone interested in contributing to the project. The project was part of the Data Structures and Algorithms (CSL2020) course during the Spring 2025 semester @ IIT Jodhpur. The contributors primarily belong to the same cohort.
+The development of **Marauder's Mart** is a collaborative effort involving multiple contributors. This section acknowledges their contributions and provides guidelines for anyone interested in contributing to the project. The project was part of the Data Structures and Algorithms (CSL2020) course during the Spring 2025 semester at IIT Jodhpur. The contributors primarily belong to the same cohort.
 
 ## Acknowledged Contributors
 
