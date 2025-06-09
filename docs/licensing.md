@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Licensing / Acknowledgement 
+title: Licensing & Acknowledgement 
 ---
 
 # Licensing / Acknowledgement
