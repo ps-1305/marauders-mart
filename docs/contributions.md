@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contributions - Marauder's Mart
+title: Contributions 
 ---
 
 # Contributions
