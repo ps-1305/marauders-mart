@@ -22,8 +22,8 @@ Before you begin, ensure you have the following software and tools installed:
 1. **Clone the Repository:**
    Open a terminal and run the following command to clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ps-1305-marauders-mart.git
-   cd ps-1305-marauders-mart
+   git clone https://github.com/ps-1305/marauders-mart.git
+   cd marauders-mart
    ```
 
 2. **Set Up Python Environment:**
