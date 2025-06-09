@@ -11,16 +11,16 @@ navbar:
   - text: Overview
     url: "/overview"
   - text: Getting Started
-    url: "/getting-started.md"
+    url: "/getting-started"
   - text: Project Structure
-    url: "/project-structure.md"
+    url: "/project-structure"
   - text: API Endpoints
-    url: "/api-endpoints.md"
+    url: "/api-endpoints"
   - text: Dependencies
-    url: "/dependencies.md"
+    url: "/dependencies"
   - text: Features
-    url: "/features.md"
+    url: "/features"
   - text: Contributions
-    url: "/contributions.md"
+    url: "/contributions"
   - text: Licensing / Acknowledgement
-    url: "/licensing.md"
+    url: "/licensing"
