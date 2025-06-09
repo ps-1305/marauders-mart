@@ -25,7 +25,7 @@ Marauder's Mart incorporates several innovative features that leverage blockchai
 ## 4. Pathfinding and Delivery
 
 - **Geospatial Analysis:** Integrates geographic data to optimize delivery routes and logistics.
-- **A* Algorithm:** Employs pathfinding algorithms to calculate optimal routes based on geographic constraints and distances.
+- **A\* Algorithm:** Employs pathfinding algorithms to calculate optimal routes based on geographic constraints and distances.
 
 ## 5. User Authentication and Security
 
