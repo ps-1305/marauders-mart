@@ -68,6 +68,6 @@ Before you begin, ensure you have the following software and tools installed:
 - Make sure to adjust `BASE` in `app.py` if your server runs on a different port or address.
 - Follow any comments in the codebase for additional setup requirements or configurations.
 
-You should now have Marauder's Mart running locally. If you encounter any issues during setup, you can correspond with us or raise an issue in the repository.
+You should now have Marauder's Mart running locally. If you encounter any issues during setup, you can correspond with us (see [Contributions](contributions.md)) or raise an issue in the repository.
 
 [Back to Home](index.md)
