@@ -13,7 +13,7 @@ Marauder's Mart is licensed under the MIT License, a widely used open-source lic
 - **Condition:** The above permissions are granted provided that the copyright notice and this permission notice are included in all copies or substantial portions of the Software.
 - **Liability:** The software is provided "as is", without warranty of any kind, express or implied. The authors are not liable for any damages or claims related to the software.
 
-For the full text of the license, see the `LICENSE` file included in the root of the repository.
+For the full text of the license, see the [`LICENSE`](https://github.com/ps-1305/marauders-mart/blob/main/LICENSE) file included in the root of the repository.
 
 ## Acknowledgements
 
@@ -41,7 +41,7 @@ These libraries play a crucial role in the functionality and success of Marauder
 
 ## Contact
 
-For any questions regarding the license or the use of third-party resources, feel free to reach out to us via our [GitHub repository](https://github.com/yourusername/ps-1305-marauders-mart).
+For any questions regarding the license or the use of third-party resources, feel free to reach out to us via our [GitHub repository](https://github.com/ps-1305/marauders-mart).
 
 Thank you for your interest and support!
 
