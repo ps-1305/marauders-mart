@@ -1,0 +1,5 @@
+<nav>
+    {% for item in site.navbar %}
+        <a href="{{ item.url | relative_url }}">{{ item.text }}</a>
+    {% endfor %}
+</nav>
