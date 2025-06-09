@@ -1,0 +1,8 @@
+title: Marauder's Mart
+description: Mini-blockchain and A* algorithm for a pseudo-anonymous reselling platform
+theme: minima                
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+github: [metadata]
+permalink: pretty
