@@ -58,7 +58,7 @@ h1, h2, h3 {
     color: #ddd;
 }
 
-#main-title {
+.main-title {
     font-family: 'Georgia', serif;
     font-size: 48px;
     font-weight: bold;
