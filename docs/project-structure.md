@@ -6,8 +6,8 @@ title: Structure
 # Project Structure
 
 Understanding the directory structure of the Marauder's Mart project is crucial for effective navigation and contribution. Below is an overview of the project's structure and the purpose of each part.
-
-└── ps-1305-marauders-mart/
+```
+marauders-mart
 ├── README.md
 ├── app.py
 ├── ledger.json
@@ -28,7 +28,7 @@ Understanding the directory structure of the Marauder's Mart project is crucial 
 ├── scripts/
 │ ├── build_graph.py
 │ └── pickup_points.py
-
+```
 ## Directory and File Overview
 
 - **`README.md`:** Provides a quick overview of the project, setup instructions, and user guidance.
