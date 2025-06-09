@@ -3,7 +3,7 @@ layout: default
 title: Licensing & Acknowledgement 
 ---
 
-# Licensing / Acknowledgement
+# Licensing & Acknowledgement
 
 ## MIT License
 
