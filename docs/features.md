@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Features - Marauder's Mart
+title: Features
 ---
 
 # Features
