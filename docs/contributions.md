@@ -5,16 +5,14 @@ title: Contributions
 
 # Contributions
 
-The development of **Marauder's Mart** is a collaborative effort involving multiple contributors. This section acknowledges their contributions and provides guidelines for anyone interested in contributing to the project.
+The development of **Marauder's Mart** is a collaborative effort involving multiple contributors. This section acknowledges their contributions and provides guidelines for anyone interested in contributing to the project. The project was part of the Data Structures and Algorithms (CSL2020) course during the Spring 2025 semester @ IIT Jodhpur. The contributors primarily belong to the same cohort.
 
 ## Acknowledged Contributors
 
-- **[Your Name]** - Project Lead and Developer
-- **[Collaborator 1]** - Assisted with C++ server implementation and API development
-- **[Collaborator 2]** - Worked on the Streamlit interface and Python scripting for pathfinding
-- **[Collaborator 3]** - Deployment and database management, ensuring robust data handling
-
-*(Add more contributors with descriptions of their roles and contributions)*
+- **Prashant Srivastav (b23mt1030@iitj.ac.in)** - Project Lead and Developer
+- **Aman Jain (b23es1006@iitj.ac.in)** - Assisted with C++ server implementation and API development
+- **Ravish Kumar (b23me1053@iitj.ac.in)** - Worked on the Streamlit interface and Python scripting for pathfinding
+- **Rudraksh Bavisa (b23m31058@iitj.ac.in)** - Deployment and database management, ensuring robust data handling
 
 ## Contribution Guidelines
 
@@ -22,14 +20,14 @@ We welcome contributions from the community to help improve Marauder's Mart. Her
 
 ### 1. Reporting Issues
 
-If you encounter any bugs or have suggestions for enhancements, please submit an issue on our [GitHub Issues](https://github.com/yourusername/ps-1305-marauders-mart/issues) page. Provide as much detail as possible to help us understand and address the issue quickly.
+If you encounter any bugs or have suggestions for enhancements, please submit an issue on our [GitHub Issues](https://github.com/ps-1305/marauders-mart/issues) page. Provide as much detail as possible to help us understand and address the issue quickly.
 
 ### 2. Pull Requests
 
 1. **Fork the Repository:** Create a personal fork of the repository on GitHub.
 2. **Clone the Fork:** Clone your fork to your local machine.
    ```sh
-   git clone https://github.com/yourusername/ps-1305-marauders-mart.git
+   git clone https://github.com/ps-1305/marauders-mart.git
    ```
 3. **Create a Branch:** Develop your feature in a separate branch.
    ```sh
@@ -47,12 +45,11 @@ If you encounter any bugs or have suggestions for enhancements, please submit an
 
 ### 3. Code of Conduct
 
-Please adhere to our [Code of Conduct](https://github.com/yourusername/ps-1305-marauders-mart/CODE_OF_CONDUCT.md) to ensure a welcoming and respectful environment for all contributors.
+Please maintain a welcoming and respectful environment for all contributors
 
 ## Recognition and Acknowledgements
 
-Contributions to Marauder's Mart are recognized in the project's documentation. Notable contributions may also be highlighted in release notes.
-
-For more detailed information about contributing, please check the `CONTRIBUTING.md` file in the root of the repository.
+Contributions to Marauder's Mart are recognised in the project's documentation. Notable contributions may also be highlighted in release notes.
+We would like to thank the contributors for the dependencies. Without them, this project would never have achieved fruition.
 
 [Back to Home](index.md)
