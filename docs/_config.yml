@@ -9,18 +9,18 @@ permalink: pretty
 
 navbar:
   - text: Overview
-    url: "/overview.md"
+    url: "/overview.html"
   - text: Getting Started
-    url: "/getting-started.md"
+    url: "/getting-started.html"
   - text: Project Structure
-    url: "/project-structure.md"
+    url: "/project-structure.html"
   - text: API Endpoints
-    url: "/api-endpoints.md"
+    url: "/api-endpoints.html"
   - text: Dependencies
-    url: "/dependencies.md"
+    url: "/dependencies.html"
   - text: Features
     url: "/features.html"
   - text: Contributions
-    url: "/contributions.md"
+    url: "/contributions.html"
   - text: Licensing / Acknowledgement
-    url: "/licensing.md"
+    url: "/licensing.html"
