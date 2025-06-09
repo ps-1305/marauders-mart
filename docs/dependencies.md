@@ -71,6 +71,4 @@ The following Python packages are required to run the front-end and process data
 
 - **Clang++ or g++:** Make sure you have a C++ compiler installed to compile the server component.
 
-This comprehensive list of dependencies ensures Marauder's Mart operates smoothly, incorporating reliable libraries and tools. Proper acknowledgment to the contributors and authors of these libraries is critical, reflecting the collaborative nature of open-source development.
-
 [Back to Home](index.md)
