@@ -14,6 +14,6 @@ Welcome to the documentation for Marauder's Mart. Use the links below to navigat
 - [Dependencies](dependencies.md)
 - [Features](features.md)
 - [Contributions](contributions.md)
-- [Licensing / Acknowledgement](licensing.md)
+- [Licensing & Acknowledgement](licensing.md)
 
 MIT License © 2025 
