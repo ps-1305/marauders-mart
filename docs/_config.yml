@@ -9,7 +9,7 @@ permalink: pretty
 
 navbar:
   - text: Overview
-    url: "/overview.md"
+    url: "/overview"
   - text: Getting Started
     url: "/getting-started.md"
   - text: Project Structure
