@@ -6,3 +6,21 @@ kramdown:
   syntax_highlighter: rouge
 github: [metadata]
 permalink: pretty
+
+navbar:
+  - text: Overview
+    url: "/overview.md"
+  - text: Getting Started
+    url: "/getting-started.md"
+  - text: Project Structure
+    url: "/project-structure.md"
+  - text: API Endpoints
+    url: "/api-endpoints.md"
+  - text: Dependencies
+    url: "/dependencies.md"
+  - text: Features
+    url: "/features.html"
+  - text: Contributions
+    url: "/contributions.md"
+  - text: Licensing / Acknowledgement
+    url: "/licensing.md"
