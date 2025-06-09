@@ -41,7 +41,7 @@ These libraries play a crucial role in the functionality and success of Marauder
 
 ## Contact
 
-For any questions regarding the license or the use of third-party resources, feel free to reach out to us via our [GitHub repository](https://github.com/ps-1305/marauders-mart).
+For any questions regarding the license or the use of third-party resources, feel free to reach out to us via our [GitHub repository](https://github.com/ps-1305/marauders-mart). You can also correspond with us through our e-mails (see [Contributions](contributions.md)).
 
 Thank you for your interest and support!
 
